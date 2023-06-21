@@ -1,0 +1,24 @@
+{
+  "name": "eoa-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megabyte0x/bico-eoa-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megabyte0x/bico-eoa-contracts/issues"
+  },
+  "homepage": "https://github.com/megabyte0x/bico-eoa-contracts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.15.0"
+  }
+}
